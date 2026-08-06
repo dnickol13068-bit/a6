@@ -1,0 +1,1 @@
+Upload the contents of this folder to any PHP-enabled hosting. index.php is the homepage. All other pages are static HTML. Connect the demonstration contact form to your preferred form service before launch.
